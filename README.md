@@ -31,5 +31,3 @@ For example:
 3. Dart Classes
 4. Asynchronous.
 
-
-## Author ✏   :   **Sabrina PAPEAU** - [Github](https://github.com/Holbiwan)
